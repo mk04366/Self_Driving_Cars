@@ -65,6 +65,3 @@ The reduction of traffic accidents by eliminating human error, increasing road c
 -  TimeDistributedlayer,Keras.io.Ac-cessedon:May20,2021.[website].Available:https://keras.io/api/layers/recurrentlayers/timedistributed
 -  R.  Valiente,  M.  Zaman,  S.  Ozer  and  Y.  P.  Fallah,  ”ControllingSteering   Angle   for   Cooperative   Self-driving   Vehiclzing   CNN   andLSTM-based    Deep    Networks,”    2019    IEEE    Intelligent    VehiclesSymposium (IV), 2019, pp. 2423-2428, doi: 10.1109/IVS.2019.8814260.
 -  Uˇriˇc ́aˇr, M., Kˇr ́ıˇzek, P., Hurych, D., Sobh, I., Yogamani, S.,  Denny,P. (2019). Yes, we gan: Applying adversarial techniques for autonomousdriving. Electronic Imaging, 2019(15), 48-1.
-## Reference to Data Structure Used
-
-- https://github.com/satchamo/Scapegoat-Tree
