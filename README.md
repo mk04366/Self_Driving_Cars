@@ -4,6 +4,7 @@
 - _Muhammad Ammar Khan_
 - _Khwaja Ghulam Alamdar_
 - _Aiman Junaid_
+- _Dr. Muhammad Farhan_
 -------
 
 ## Publication Link
