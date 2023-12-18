@@ -7,7 +7,7 @@
 -------
 
 ## Publication Link
-- Availaible on [ScitePress](https://www.scitepress.org/Link.aspx?doi=10.5220/0010839900003124)
+Availaible on [ScitePress](https://www.scitepress.org/Link.aspx?doi=10.5220/0010839900003124)
 
 ## Background
 
