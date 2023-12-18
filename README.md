@@ -6,6 +6,9 @@
 - _Aiman Junaid_
 -------
 
+## Publication Link
+- Availaible on [ScitePress](https://www.scitepress.org/Link.aspx?doi=10.5220/0010839900003124)
+
 ## Background
 
 After extensive research for the available resources and addressing each of our interests in the field of computer vision, we have decided to work on the topic of ‘Behavioral Cloning for Self-Driving or Autonomous Cars’. 
